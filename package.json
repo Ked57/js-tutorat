@@ -1,0 +1,26 @@
+{
+  "name": "js-tutorat",
+  "version": "1.0.0",
+  "description": "Programmation fonctionnelle",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "test:destructuring": "ava functionnal-programming/destructuring/destructuring.test.js",
+    "test:pure-function": "ava functionnal-programming/pure-function/pure-function.test.js",
+    "test:map": "ava functionnal-programming/map/map.test.js",
+    "test:filter": "ava functionnal-programming/filter/filter.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ked57/js-tutorat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ked57/js-tutorat/issues"
+  },
+  "homepage": "https://github.com/Ked57/js-tutorat#readme",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
