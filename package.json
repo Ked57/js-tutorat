@@ -8,7 +8,10 @@
     "test:destructuring": "ava functionnal-programming/destructuring/destructuring.test.js",
     "test:pure-function": "ava functionnal-programming/pure-function/pure-function.test.js",
     "test:map": "ava functionnal-programming/map/map.test.js",
-    "test:filter": "ava functionnal-programming/filter/filter.test.js"
+    "test:filter": "ava functionnal-programming/filter/filter.test.js",
+    "test:basic-async": "ava async/basic-example/basic-example.test.js",
+    "test:error-async": "ava async/error-handling/error-handling.test.js",
+    "test:chaining-async": "ava async/chaining/chaining.test.js"
   },
   "repository": {
     "type": "git",
