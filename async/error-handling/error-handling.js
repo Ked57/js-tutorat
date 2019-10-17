@@ -1,6 +1,5 @@
 const {doSomethingAsync} = require("./error-handling.util")
 
-const callSomethingAsync = () => {
-}
+const callSomethingAsync = () => {}
 
 exports.callSomethingAsync = callSomethingAsync;

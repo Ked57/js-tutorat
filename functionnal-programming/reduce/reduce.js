@@ -1,3 +1,3 @@
-const sum = numberList => numberList.reduce((sum, row) => sum += row)
+const sum = numberList => {}
 
 exports.sum = sum;
