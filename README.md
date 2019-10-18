@@ -1,7 +1,7 @@
 # js-tutorat
 
 ## Functional programming
-    - first-class function as a
+    - first-class function has a
         - constant
         - argument
         - return value
